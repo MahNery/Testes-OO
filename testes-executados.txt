@@ -1,0 +1,8 @@
+Conta
+ [x] Cria conta with data set #0
+ [x] Deposito valido with data set #0
+ [x] Deposito invalido with data set #0
+ [x] Saque valido with data set #0
+ [x] Saca com saldo indisponivel with data set #0
+ [x] Transfere com saldo with data set #0
+

@@ -1,0 +1,19 @@
+{
+    "name": "banco/vendor",
+    "description": "Projeto para apresentação da sprint 10",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Gustavo",
+            "email": "gustavomenezes0101@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/Model"
+        }
+    }
+}
